@@ -52,14 +52,15 @@ Our ready accelerators speed up product development by 50–60%:
 
 ---
 
-## 🤝 Work With Us
+## 🤝 Partner With Us
 
 Are you...
 
 - A **healthtech startup** looking to launch fast?
-- An **EHR team** needing Epic/Cerner integrations?
+- An **SaaS founder** needing Epic/Cerner integrations?
 - Exploring **FHIR/HL7, LLMs**, or **custom FHIR servers**?
 - Building a **compliant cloud architecture**?
+- Looking to build healthcare products faster?
 
 Let’s collaborate! 🤝
 
