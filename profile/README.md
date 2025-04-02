@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.mindbowser.com/"><img src="https://img.shields.io/badge/Website-Mindbowser.com-blue?style=for-the-badge"></a>
-  <a href="[https://www.linkedin.com/company/mindbowser/](https://www.linkedin.com/company/mindbowser-infosolutions)"><img src="https://img.shields.io/badge/LinkedIn-Mindbowser-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/company/mindbowser/"><img src="https://img.shields.io/badge/LinkedIn-Mindbowser-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="[https://twitter.com/mindbowser](https://x.com/Mindbowser)"><img src="https://img.shields.io/badge/Twitter-@mindbowser-blue?style=for-the-badge&logo=twitter"></a>
 </p>
 
